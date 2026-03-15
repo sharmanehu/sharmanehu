@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Neha
+ #### Hi there 👋 I'm Neha 
 
-💼 Digital Marketing Executive | 🎨 Graphic Designer | 🔍 SEO Specialist | 🧩 UI/UX Designer | 🧪 QA | 📊 Analyst  
+`💼 Digital Marketing Executive | 🎨 Graphic Designer | 🔍 SEO Specialist | 🧩 UI/UX Designer | 🧪 QA | 📊 Analyst`  
 
-I am a passionate digital professional with experience in **digital marketing, design, SEO, UI/UX, quality assurance, and data analysis**. I enjoy creating impactful digital experiences, improving online visibility, and ensuring high-quality digital products through creative thinking and data-driven strategies.
-
-## 🔧 Skills & Tech Stack
+    `I am a passionate digital professional with experience in **digital marketing, design, SEO, UI/UX, quality assurance, and data analysis**. I enjoy creating impactful digital experiences, improving online visibility, and ensuring high-quality digital products through creative thinking and data-driven strategies.
+`
+### 🔧 Skills & Tech Stack
 
 ### 🎯 Core: 
 Digital Marketing Strategy, Brand Promotion, Social Media Marketing, Campaign Planning
