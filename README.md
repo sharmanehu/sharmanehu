@@ -6,20 +6,16 @@ I am a passionate digital professional with experience in **digital marketing, d
 
 ## 🔧 Skills & Tech Stack
 
-### 🎯 Core: Digital Marketing Strategy, Brand Promotion, Social Media Marketing, Campaign Planning
-
+### 🎯 Core: 
+Digital Marketing Strategy, Brand Promotion, Social Media Marketing, Campaign Planning
 ### 🎨 Design
 Graphic Design, Creative Advertisement Design, Branding, Poster & Social Media Visuals, UI/UX Design
-
 ### 🔍 SEO & Analytics
 Search Engine Optimization (On-Page & Off-Page), Keyword Research, Google Search Console, Google Analytics, Website Performance Analysis
-
 ### 🧪 Quality & Testing
 Quality Assurance (QA), Website & UI Testing, Usability Testing, Performance Monitoring
-
 ### 🛠 Tools & Platforms
 Adobe Photoshop, Adobe Illustrator, Figma, Canva, VS Code, WordPress, Google Analytics
-
 ### 🤖 AI & Productivity
 ChatGPT, Microsoft Copilot, AI-assisted Content Creation, Digital Workflow Optimization
 
