@@ -6,8 +6,7 @@ I am a passionate digital professional with experience in **digital marketing, d
 
 ## 🔧 Skills & Tech Stack
 
-### 🎯 Core
-Digital Marketing Strategy, Brand Promotion, Social Media Marketing, Campaign Planning
+### 🎯 Core: Digital Marketing Strategy, Brand Promotion, Social Media Marketing, Campaign Planning
 
 ### 🎨 Design
 Graphic Design, Creative Advertisement Design, Branding, Poster & Social Media Visuals, UI/UX Design
