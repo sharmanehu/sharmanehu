@@ -1,9 +1,9 @@
  #### Hi there 👋 I'm Neha 
 
-`💼 Digital Marketing Executive | 🎨 Graphic Designer | 🔍 SEO Specialist | 🧩 UI/UX Designer | 🧪 QA | 📊 Analyst`  
+💼 Digital Marketing Executive | 🎨 Graphic Designer | 🔍 SEO Specialist | 🧩 UI/UX Designer | 🧪 QA | 📊 Analyst
 
-    `I am a passionate digital professional with experience in **digital marketing, design, SEO, UI/UX, quality assurance, and data analysis**. I enjoy creating impactful digital experiences, improving online visibility, and ensuring high-quality digital products through creative thinking and data-driven strategies.
-`
+I am a passionate digital professional with experience in **digital marketing, design, SEO, UI/UX, quality assurance, and data analysis**. I enjoy creating impactful digital experiences, improving online visibility, and ensuring high-quality digital products through creative thinking and data-driven strategies.
+
 ### 🔧 Skills & Tech Stack
 
 ### 🎯 Core: 
@@ -20,7 +20,6 @@ Adobe Photoshop, Adobe Illustrator, Figma, Canva, VS Code, WordPress, Google Ana
 ChatGPT, Microsoft Copilot, AI-assisted Content Creation, Digital Workflow Optimization
 
 ---
-
 
 ## 🛠 Tools & Technologies
 
@@ -46,7 +45,6 @@ ChatGPT, Microsoft Copilot, AI-assisted Content Creation, Digital Workflow Optim
 - Helping businesses grow with **modern digital solutions**
 
 *"Design with purpose, market with strategy, and optimize with data."*
-
 
 ---
 
